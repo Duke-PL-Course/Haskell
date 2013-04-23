@@ -4,8 +4,10 @@
 
 ### Find
 
-* The Haskell wiki
+* [The Haskell wiki](http://www.haskell.org/haskellwiki/Haskell)
 * A Haskell online group supporting your compiler of choice
+
+    [GHCI](http://www.haskell.org/haskellwiki/GHC/GHCi)
 
 ### Do
 
